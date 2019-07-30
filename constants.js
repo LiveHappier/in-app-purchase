@@ -15,11 +15,6 @@ exports.UNITY = {
 	GOOGLE: 'GooglePlay'
 };
 
-exports.UNITY = {
-	APPLE: 'AppleAppStore',
-	GOOGLE: 'GooglePlay'
-};
-
 // validation
 exports.VALIDATION = {
 	SUCCESS: 0,
